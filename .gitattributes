@@ -1,0 +1,10 @@
+db/*       filter=git-crypt diff=git-crypt
+ELK/*       filter=git-crypt diff=git-crypt
+big/*       filter=git-crypt diff=git-crypt
+java/*      filter=git-crypt diff=git-crypt
+linux/*     filter=git-crypt diff=git-crypt
+mq/*        filter=git-crypt diff=git-crypt
+spring/*    filter=git-crypt diff=git-crypt
+运维/*       filter=git-crypt diff=git-crypt
+mac/*       filter=git-crypt diff=git-crypt
+cache/*     filter=git-crypt diff=git-crypt
