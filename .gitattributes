@@ -8,3 +8,4 @@ spring/*    filter=git-crypt diff=git-crypt
 运维/*       filter=git-crypt diff=git-crypt
 mac/*       filter=git-crypt diff=git-crypt
 cache/*     filter=git-crypt diff=git-crypt
+zookeeper/*     filter=git-crypt diff=git-crypt
