@@ -13,3 +13,4 @@ mq/*                        filter=git-crypt diff=git-crypt
 spring/*                    filter=git-crypt diff=git-crypt
 zookeeper/*                 filter=git-crypt diff=git-crypt
 运维/*                       filter=git-crypt diff=git-crypt
+*.md                        filter=git-crypt diff=git-crypt
