@@ -4,6 +4,7 @@ cache/*                     filter=git-crypt diff=git-crypt
 cluster/*                   filter=git-crypt diff=git-crypt
 data-structures/*           filter=git-crypt diff=git-crypt
 db/*                        filter=git-crypt diff=git-crypt
+db/sql-train/*              filter=git-crypt diff=git-crypt
 degsin/*                    filter=git-crypt diff=git-crypt
 ELK/*                       filter=git-crypt diff=git-crypt
 java/*                      filter=git-crypt diff=git-crypt
